@@ -1,0 +1,29 @@
+Answer: Roughly 784 logs at a 1ft:1.6mm scale.
+
+Process:
+
+1. Research
+	For the research process I looked up other lincoln log replicas to get an idea of how lincoln logs work and see what floor plans are like. The most useful example I found was from a lincoln log replica of the Nebraska Statue Capitol Building, and in particular, a few photos that showed how the floor was laid out:
+
+	http://ireport.cnn.com/docs/DOC-956097
+
+	After this I took a look at what type of lincoln log pieces there are, and after looking back at the above photo, I noticed that none of the single joint pieces seemed to be used. All of the pieces seem primarily to be two or three joint pieces.
+
+	At this point I also looked up how to build with lincoln logs, just to get a better idea of how they fit together. I came across some old instructions for a hasbro playset, which also helped me gain a better understanding of the logs themselves:
+
+	http://www.hasbro.com/common/instruct/LincolnLogsFort.PDF
+
+	Then there was some basic information to grab about the Empire State Building itself, namely the building's floor area (2,248,355 sq ft), taken from:
+
+	https://en.wikipedia.org/wiki/Empire_State_Building
+
+2. Math
+
+	First some basic assumptions need to be made. In my representation I will say that every layer of outward facing logs represents one floor. At 1250 feet height at the roof, and 103 floors (incuding the basement) that makes every floor approximately 12' tall, and each log laid flat represents 12' then. Logs are approximately 3/4" (or 19mm) tall laid flat (from https://makesomething.tv/how-make-lincoln-logs), so 19mm represents 12'. The length of a three-joint log is 7 1/2" (or 190.5 [lets say 191]mm). So it would represent about 121 feet ((191/19)*12). A four-joint log, at 10 1/2" represents 169 feet across.
+
+
+	At a floor area of 2,248,355 sq ft and 103 floors we have approximately 21829 sq ft per floor to represent. Making a grid of two four-joint logs, connected by four three-joint logs, we come to a represented area of 20,449 sq feet. We're still under, however, by 1380 sq feet per floor, or 142,140sq feet total. Because of the tapering of the building from bottom to top, we can make up for this by adding to the dimension of the building at its base and reducing as we move up around the core. If we represent this in squares of two-joint logs (representing 72 feet, with an area of 5,184sq feet)that link to the core, we would need about 27 squares. Each square would need 3 logs (one wall being braced by the core). With this equation we would need, from garage floor to roof, 700 logs. 206 of those would be four-joint pieces, 412 would be three-joint pieces, and 82 would be two-joint pieces.
+
+	From the roof to the antenna there is another 254 feet to account for. With the height of a layer being 12', we need approximately another 21 layers to account for. These layers can be much less spacious as they represent the antenna, so using two-joint pieces seems adequate. Every 4 pieces represent a layer, so we need another 84 pieces.
+
+	This brings our total log count to 784. Our scale, in milimeters per foot, would be approximately 1:1.6 (or 1 foot : 1.6 mm).

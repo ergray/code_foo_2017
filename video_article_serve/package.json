@@ -1,0 +1,10 @@
+{
+	"name": "video-and-article-server",
+	"description": "app for ign application",
+	"version" : "0.0.1",
+	"dependencies" : {	
+		"http-server": "0.8.0",
+		"routes": "2.0.0",
+		"mysql": "~2.13.x"
+	}
+}
